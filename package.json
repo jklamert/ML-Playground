@@ -1,0 +1,11 @@
+{
+  "name": "ml-playground",
+  "version": "1.0.0",
+  "description": "Introduction to ML",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Jason Klamert",
+  "license": "ISC"
+}
